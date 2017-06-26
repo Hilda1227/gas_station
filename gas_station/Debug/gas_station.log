@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\dell\desktop\gas_station\gas_station\car.h(29): error C2027: 使用了未定义类型“Lane”
+  c:\users\dell\desktop\gas_station\gas_station\car.h(6): note: 参见“Lane”的声明
+c:\users\dell\desktop\gas_station\gas_station\car.h(29): error C2228: “.hasGas”的左边必须有类/结构/联合
